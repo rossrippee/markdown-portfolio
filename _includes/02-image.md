@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Elfen Lied is one of my new favorite anime](https://img3.hulu.com/user/v3/artwork/2ec0ead0-5795-4f4b-bad0-75b61c5f5bee?base_image_bucket_name=image_manager&base_image=7781b4fa-39be-432e-8c7e-6edc15939e7c&region=US&format=jpeg&size=952x536)
